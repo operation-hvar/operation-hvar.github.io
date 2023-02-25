@@ -1603,15 +1603,15 @@ h1 {
 
 #clues {
 	bottom:0;
-    z-index:2;
-    box-sizing:border-box;
-    position:sticky;
-    position: -webkit-sticky;
+	z-index:2;
+	box-sizing:border-box;
+	position:sticky;
+	position: -webkit-sticky;
 	/*border-top:5px solid #38341c;*/
-    max-width:900px;
-    margin:auto;
+	max-width:900px;
+	margin:auto;
 	padding-top:5px;
-    display:flex;
+	display:flex;
 	font-size:14px;
 }
 
@@ -1911,7 +1911,6 @@ h1 {
 .cx .h5 {
 	font-size: 22px;
 	margin-bottom:5px;
-	color: blue;
 	text-align:center;
 }
 
